@@ -1,1 +1,1 @@
-# Datatau_Scraper(Yelp_hotets)
+# Datatau_Scraper(Yelp_hotels)
